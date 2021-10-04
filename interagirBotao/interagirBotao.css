@@ -1,0 +1,27 @@
+* {
+    background-color: #FFB6C1;
+    background-size: cover;
+    margin: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #8B0000;
+}
+
+h1:hover {
+    color: #FA8072;
+}
+
+button {
+    padding: 20px;
+    right: 40px;
+    background-color: #F08080;
+    border: none;
+    border-radius: 10px;
+}
+
+button:hover {
+    font-size: 18px;
+    background-color: #FA8072;
+    cursor: pointer;
+
+}

@@ -1,0 +1,26 @@
+* {
+    background-color: #FFFACD;
+    text-align: center;
+    color: #DA70D6;
+}
+
+p {
+    font-size: 18px;
+}
+
+p:hover {
+    font-size: 20px;
+}
+
+button {
+    border: none;
+    border-radius: 20px;
+    padding: 30px;
+    background-color: #FFE4B5;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #F0E68C;
+    font-size: 18px;
+}

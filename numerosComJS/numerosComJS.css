@@ -1,0 +1,34 @@
+body {
+    margin: 50px 20px;
+    text-align: center;
+    color: #FFFACD;
+    background-image: url('img/bg3.jpg');
+    background-repeat: none;
+    background-size: cover;
+    position: relative;
+}
+
+h1 {
+    font-size: 38px;
+}
+
+button {
+    font-size: 18px;
+    color: #008000;
+    background-color: #ADFF2F;
+    padding: 20px 100px;
+    border: none;
+    border-radius: 10px;
+}
+
+section {
+    display: flex;
+    font-size: 22px;
+    justify-content: center;
+    width: 300;
+}
+
+p {
+    text-transform: uppercase;
+}
+
